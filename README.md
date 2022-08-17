@@ -27,7 +27,7 @@ I am a sophomore undergraduate student in Beijing Institute of Technology. A Mal
 I'm interest in UI design and will deepening my skill in future. I love reading books, camping and exploring some adventurous activities.  I'm always trying to grow and learn something new.
 
 ### Support and contact 
-Email: jie020410@gmail.com
-Facebook: Eng Jie
-Instagram: andree_jie 
+Email: jie020410@gmail.com <br>
+Facebook: Eng Jie <br>
+Instagram: andree_jie  <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andree41)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/andree_jie/)  
