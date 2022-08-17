@@ -16,10 +16,10 @@ I am a sophomore undergraduate student in Beijing Institute of Technology. A Mal
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JS"  alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/40969170/176789960-8dbf0402-d92b-430e-9b0a-8ad2eff2743b.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="Clanguage" alt="Clanguage" width="40" height="40"/>&nbsp;
 </div>
 
