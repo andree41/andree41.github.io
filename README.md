@@ -6,12 +6,12 @@ index.md
 </div>
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-About me:
-I am a sophomore undergraduate student in Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. I am also a freelancer of strategy executive on event planning in Forest art lab. 
+<h3>About me:</h3>
+<br>I am a sophomore undergraduate student in Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. I am also a freelancer of strategy executive on event planning in Forest art lab. 
 
 ### Markdown
 
