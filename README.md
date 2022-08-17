@@ -13,7 +13,7 @@
 I am a sophomore undergraduate student in Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. I am also a freelancer of strategy executive on event planning in Forest art lab. 
 
 
-### :hammer_and_wrench: Languages and Tools :
+###Languages and Tools :
 
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
