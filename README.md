@@ -24,27 +24,10 @@ I am a sophomore undergraduate student in Beijing Institute of Technology. A Mal
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="Clanguage" alt="Clanguage" width="40" height="40"/>&nbsp;
 </div>
 
-# Header 1
-## Header 2
-### Header 3
+### My interest
+I'm interest in UI design and will deepening my skill in future. I also like to camping and exploring some adventurous activities. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andree41/andree41.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Support and contact 
+Email: jie020410@gmail.com
+Facebook: Eng Jie
+Instagram: andree_jie 
