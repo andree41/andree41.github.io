@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+index.md
+## Hello world, Welcome to my pages
 
-You can use the [editor on GitHub](https://github.com/andree41/andree41.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+About me:
+I am a sophomore undergraduate student in Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. I am also a freelancer of strategy executive on event planning in Forest art lab. 
 
 ### Markdown
 
