@@ -1,16 +1,15 @@
 ## Hello world, Welcome to my pages
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
+<img src="https://avatars.githubusercontent.com/u/110109649?s=400&u=5892235327a80e3c697499c6dc583de308b1b34d&v=4" width="256" height="283" alt="Eng Jie"/>
 </div>
 
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <h3>About me:</h3>
-I am a sophomore undergraduate student in Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. I am also a freelancer of strategy executive on event planning in Forest art lab. 
+I am a sophomore undergraduate student at Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. In addition, I work as a freelance strategy executive on event planning and rural development for Forest Art Lab. I mainly work as an idea bank and research team. I have 4 years of experience in planning and executing events and festivals in local states.
 
 
 ### Languages and Tools :
@@ -24,7 +23,7 @@ I am a sophomore undergraduate student in Beijing Institute of Technology. A Mal
 </div>
 
 ### My interest
-I'm interest in UI design and will deepening my skill in future. I love reading books, camping and exploring some adventurous activities.  I'm always trying to grow and learn something new.
+I'm interested in UI design and will be deepening my skills in the future. I'm starting to get in touch with the UX design field since it is closely related to UI. UX design is focused on anything that affects the user's journey to solve that problem, positive or negative, both on-screen and off. UI design is focused on how the product's surfaces look and function. I'm trying to improve my technical skills and gain more practical experience to be able to become a UI designer in the future. Besides that, I'm also interested in programming, but for me it's quite late to begin. Nevertheless, I will continue my learning journey in Java, Python, and C/C++ programming languages. I love reading books, camping, and exploring some adventurous activities. I'm always trying to grow and learn something new.
 
 ### Support and contact 
 Email: jie020410@gmail.com <br>
