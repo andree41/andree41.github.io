@@ -11,7 +11,6 @@
 <h3>About me:</h3>
 I am a sophomore undergraduate student at Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. In addition, I work as a freelance strategy executive on event planning and rural development for Forest Art Lab. I mainly work as an idea bank and research team. I have 4 years of experience in planning and executing events and festivals in local states.
 
-
 ### Languages and Tools :
 
 <div>
