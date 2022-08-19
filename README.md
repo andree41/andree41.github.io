@@ -1,7 +1,7 @@
 ## Hello world, Welcome to my pages
 
 <div id="header" align="center">
-<img src="https://avatars.githubusercontent.com/u/110109649?s=400&u=31ef5e78afc3793e36faec5e9833b270b0293689&v=4" width="256" height="283" alt="Eng Jie"/>
+<img src="https://avatars.githubusercontent.com/u/110109649?s=400&u=5892235327a80e3c697499c6dc583de308b1b34d&v=4" width="256" height="283" alt="Eng Jie"/>
 </div>
 
 <h1>
