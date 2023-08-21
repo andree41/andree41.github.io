@@ -1,15 +1,7 @@
 ## Eng Jie
 
-<div id="header" align="center">
-<img src="https://avatars.githubusercontent.com/u/110109649?s=400&u=5892235327a80e3c697499c6dc583de308b1b34d&v=4" width="256" height="283" alt="Eng Jie"/>
-</div>
-
-<h1>
-  Hey there
-</h1>
-
 <h3>About me:</h3>
-I am a sophomore undergraduate student at Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. In addition, I work as a freelance strategy executive on event planning and rural development for Forest Art Lab. I mainly work as an idea bank and research team. I have 4 years of experience in planning and executing events and festivals in local states.
+I am a third year undergraduate student at Beijing Institute of Technology. A Malaysian international student majoring in Computer Science and Technology. In addition, I work as a freelance strategy executive on event planning and rural development for Forest Art Lab. I mainly work as an idea bank and research team. I have 4 years of experience in planning and executing events and festivals in local states.
 
 ### Languages and Tools :
 
